@@ -47,7 +47,7 @@ JavaScript : Browser || Server
 
 // thêm sửa xóa Attribute 
 
-var headingElement = document.querySelector('h1');
+// var headingElement = document.querySelector('h1');
 
 // headingElement.className ='heading';
 // headingElement.setAttribute('id' ,'heading') // thêm thuôc tính
@@ -55,9 +55,7 @@ var headingElement = document.querySelector('h1');
 // console.log(headingElement)
 
 // headingElement.innerText = ' <i>new heading</i>'
-headingElement.textContent = '
-
-new heading1'
+// headingElement.textContent = 'new heading1'; 
 
 // getter
 // console.log(headingElement.innerText), // -> người dufng nhìn thấy
